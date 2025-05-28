@@ -2,6 +2,8 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Event-Driven-WebClient" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/springboot/event-driven-webclient" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/springboot/simple-call-endpoint" vcs="Git" />
   </component>
 </project>
