@@ -1,2 +1,3 @@
-# java-project
-Here is my portofolio using java (Springboot &amp; Quarkus)
+# ☕ Backend Portfolio – Java Projects
+
+A collection of backend projects using Java (Spring Boot & Quarkus).
